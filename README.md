@@ -1,4 +1,15 @@
+# ‍João Victor Cavallin Pereira
 
+**Engineering computer student at UnB**. Experienced with **Python, C, C++ and JavaScript**
+
+<p align="center">
+  <a href="https://www.unb.br/">
+    <img alt="UnB" title="Universidade de Brasília (UnB)"
+      src="https://img.shields.io/badge/Universidade%20de%20Bras%C3%ADlia-UnB-1B5E20?style=for-the-badge" />
+  </a>
+</p>
+
+---
 ### 📫 Contact  
 
 [![Gmail Badge](https://img.shields.io/badge/-joaovictorcavallin07@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcavallin07@gmail.com)  
@@ -8,7 +19,7 @@
 
 ### 💻 Main Skills  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
