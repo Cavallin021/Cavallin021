@@ -1,6 +1,6 @@
 # ‍João Victor Cavallin Pereira
 
-**Engineering computer student at UnB**. Experienced with **Python, C, C++ and JavaScript**
+**Engineering computer student at UnB**. Experienced with **Python, JAVA and JavaScript**
 
 <p align="center">
   <a href="https://www.unb.br/">
