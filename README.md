@@ -1,38 +1,45 @@
-# ‍João Victor Cavallin Pereira
+# 💻 João Victor Cavallin Pereira
 
-**Engineering computer student at UnB**. Experienced with **Python, JAVA and JavaScript**
+**Computer Engineering student at UnB**. Focused on **TypeScript and JavaScript**, with solid knowledge in **Python and Java**.
 
 <p align="center">
-  <a href="https://www.unb.br/">
-    <img alt="UnB" title="Universidade de Brasília (UnB)"
-      src="https://img.shields.io/badge/Universidade%20de%20Bras%C3%ADlia-UnB-1B5E20?style=for-the-badge" />
+  <a href="https://unb.br">
+    <img alt="UnB" title="Universidade de Brasília (UnB)" src="https://shields.io" />
   </a>
 </p>
 
 ---
+
 ### 📫 Contact  
 
-[![Gmail Badge](https://img.shields.io/badge/-joaovictorcavallin07@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcavallin07@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorcavallin/)
+[![Gmail Badge](https://shields.io)](mailto:joaovictorcavallin07@gmail.com)  
+[![LinkedIn Badge](https://shields.io)](https://linkedin.com)
 
 ---
 
-### 💻 Main Skills  
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
+### 🚀 Main Skills  
+
+![TypeScript](https://shields.io)&nbsp;
+![JavaScript](https://shields.io)&nbsp;
+![React](https://shields.io)&nbsp;
+![NestJS](https://shields.io)&nbsp;
+![Node.js](https://shields.io)&nbsp;
+![PostgreSQL](https://shields.io)&nbsp;
+
 ---
 
+### 🛠️ Additional Skills  
 
-### 💡 Other Knowledge  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00000)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://shields.io)&nbsp;
+![Java](https://shields.io)&nbsp;
+![Prisma](https://shields.io)&nbsp;
+![Tailwind](https://shields.io)&nbsp;
+![Git](https://shields.io)&nbsp;
+![HTML](https://shields.io)&nbsp;
+![CSS](https://shields.io)&nbsp;
+
 ---
 
 ### 📚 Currently Learning  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+<img width="100%" src="https://vercel.app"/>
